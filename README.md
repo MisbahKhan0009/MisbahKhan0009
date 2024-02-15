@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Backend development with Next.js**
 
-- 👯 I’m looking to collaborate on **Open SOurce Project**
+- 👯 I’m looking to collaborate on **Open Source Project**
 
 - 📫 Mail me on **mkhanmisbah007@gmail.com**
 
