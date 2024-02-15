@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Open SOurce Project**
 
-- 📫 How to reach me **mkhanmisbah007@gmail.com**
+- 📫 Mail me on **mkhanmisbah007@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
