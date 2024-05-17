@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Misbah Khan</h1>
+<h1 align="center">Hi, I'm Misbah Khan</h1>
 <h3 align="center">A Frontend Developer with an unwavering enthusiasm for technology and a strong commitment to ongoing learning.</h3>
 
 - 🔭 I’m currently working on **MERN stack**
@@ -10,8 +10,8 @@
 - 📫 Mail me on **mkhanmisbah007@gmail.com**
 <br />
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h2 align="center">Connect with me 👋</h2>
+<p align="center">
 <a href="https://linkedin.com/in/misbah-khan-774a25211" style="text-decoration: none;" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="misbah-khan-774a25211" height="40" width="40" /></a>
 <a href="https://fb.com//khan.misbah.007" style="text-decoration: none;" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="/khan.misbah.007" height="40" width="40" /></a>
 <a href="https://www.codechef.com/users/misbah009" style="text-decoration: none;" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="misbah009" height="40" width="40" /></a>
@@ -20,8 +20,8 @@
 <a href="https://www.leetcode.com/misbahkhan0009" style="text-decoration: none;" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="misbahkhan0009" height="40" width="40" /></a>
 </p>
 <br />
-<h3 align="left">Languages and Tools:</h3>
-<p align="left" style="padding:20px"> 
+<h2 align="center">Languages and Tools 🧰</h2>
+<p align="center" style="padding:20px"> 
   <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
