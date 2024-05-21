@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **MERN stack**
 
-- 🌱 I’m currently learning **Backend development with Next.js**
+- 🌱 I’m currently learning **Backend development**
 
 - 👯 I’m looking to collaborate on **Open Source Project**
 
