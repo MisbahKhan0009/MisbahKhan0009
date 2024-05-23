@@ -1,3 +1,4 @@
+<img src="https://i.ibb.co/fxHNB1j/White-Creative-Doodle-Brainstorming-Presentation.png" alt="Top Banner" />
 <h1 align="center">Hi, I'm Misbah Khan</h1>
 <h3 align="center">A Frontend Developer with an unwavering enthusiasm for technology and a strong commitment to ongoing learning.</h3>
 
