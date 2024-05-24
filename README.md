@@ -2,9 +2,10 @@
 <h1 align="center">Hi, I'm Misbah Khan</h1>
 <h3 align="center">A Frontend Developer with an unwavering enthusiasm for technology and a strong commitment to ongoing learning.</h3>
 
-- 🔭 I’m currently working on **MERN stack**
+- 🔭 I’m currently working on <a href="https://github.com/perceptronbd" target="_blank">Perceptron</a> as a Software Developer Intern.
 
-- 🌱 I’m currently learning **Backend development**
+
+- 🌱 I’m currently Focusing on **Frontend development** and learning **Backend development**
 
 - 👯 I’m looking to collaborate on **Open Source Project**
 
