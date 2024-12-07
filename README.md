@@ -48,11 +48,17 @@
 </p>
 
 <br />
-<img align="center" src="https://github.com/MisbahKhan0009/MisbahKhan0009/blob/main/profile-3d-contrib/profile-green-animate.svg" style="border-radius:10px" alt="misbahkhan0009" />
-<div style="display: flex; justify-content: center; align-items: center; margin: 0 auto;">
-   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=misbahkhan0009&show_icons=true&locale=en" alt="misbahkhan0009" /></p>
-   <p><img align="center" src="https://streak-stats.demolab.com/?user=MisbahKhan0009" alt="misbahkhan0009" /></p>
+<div style="border-radius: 10px; overflow: hidden; display: inline-block;">
+    <img align="center" src="https://github.com/MisbahKhan0009/MisbahKhan0009/blob/main/profile-3d-contrib/profile-green-animate.svg" alt="misbahkhan0009" />
 </div>
+
+<div style="display: flex; justify-content: center; align-items: center; gap: 10px; margin: 0 auto;">
+  <p style="margin: 0;">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=misbahkhan0009&show_icons=true&locale=en" alt="misbahkhan0009" />
+  </p>
+  <p style="margin: 0;">
+    <img align="center" src="https://streak-stats.demolab.com/?user=MisbahKhan0009" alt="misbahkhan0009" />
+  </p>
+</div>
+
 <br />
-
-
