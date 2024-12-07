@@ -53,7 +53,7 @@
 <br />
 
 <div style="display: flex; justify-content: center; align-items: center; margin: 0 auto;">
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=misbahkhan0009&show_icons=true&locale=en&layout=compact" alt="misbahkhan0009" /></p> <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=misbahkhan0009&show_icons=true&locale=en" alt="misbahkhan0009" /></p>
+  ![](./profile-3d-contrib/profile-green-animate.svg) <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=misbahkhan0009&show_icons=true&locale=en" alt="misbahkhan0009" /></p>
 </div>
 <br />
 
