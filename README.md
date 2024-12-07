@@ -1,6 +1,5 @@
 <img src="https://i.imgur.com/vP5iyeq.png" alt="Top Banner" />
 
-
 <h1 align="center">Hi, I'm Misbah Khan</h1>
 <h3 align="center">A Developer with an unwavering enthusiasm for technology and a strong commitment to ongoing learning.</h3>
 
@@ -10,8 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Open Source Project**
 
-- 📫 Mail me on **mkhanmisbah007@gmail.com**
-<br />
+- 📫 Mail me on **mkhanmisbah007@gmail.com** <br />
 
 <h2 align="center">Connect with me 👋</h2>
 <p align="center">
@@ -49,9 +47,8 @@
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
 </p>
 
-
 <br />
-![](./profile-3d-contrib/profile-green-animate.svg)
+<img align="center" src="https://github.com/MisbahKhan0009/MisbahKhan0009/blob/main/profile-3d-contrib/profile-green-animate.svg" alt="misbahkhan0009" />
 <div style="display: flex; justify-content: center; align-items: center; margin: 0 auto;">
    <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=misbahkhan0009&show_icons=true&locale=en" alt="misbahkhan0009" /></p>
 </div>
