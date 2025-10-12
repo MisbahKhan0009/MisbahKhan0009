@@ -3,7 +3,7 @@
 <h1 align="center">Hi, I'm Misbah Khan</h1>
 <h3 align="center">A Developer with an unwavering enthusiasm for technology and a strong commitment to ongoing learning.</h3>
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Natural Language Processing**
 
 - 🔭 I worked on <a href="https://www.perceptron.site/" target="_blank">Perceptron BD.</a> as a Software Developer Intern.
 
