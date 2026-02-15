@@ -54,7 +54,6 @@
 </p>
 <br/>
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=misbahkhan0009&show_icons=true&locale=en&theme=prussian" alt="GitHub Stats" />
     <img src="https://streak-stats.demolab.com/?user=MisbahKhan0009&theme=prussian" alt="GitHub Streak" />
 </p>
 
