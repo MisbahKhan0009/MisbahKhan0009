@@ -1,60 +1,139 @@
+
+
+<div align="center">
+
 <img src="https://i.imgur.com/bPp1ExI.png" alt="Top Banner" />
 
-<h1 align="center">Hi, I'm Misbah Khan</h1>
-<h3 align="center">A Developer with an unwavering enthusiasm for technology and a strong commitment to ongoing learning.</h3>
+<br />
+<br />
 
-- 🌱 I’m currently learning **Natural Language Processing**
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=28&duration=3000&pause=1000&color=3ECF8E&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Research+Assistant+at+Big-Matrix+Lab;AI+%2F+NLP+Explorer;Building+Modern+Web+Experiences" />
 
-- 🔭 I worked on <a href="https://www.perceptron.site/" target="_blank">Perceptron BD.</a> as a Software Developer Intern.
+<br />
 
-- 👯 I’m looking to collaborate on **Open Source Project**
-
-- 📫 Mail me on **mkhanmisbah007@gmail.com** <br />
-
-<h2 align="center">Connect with me 👋</h2>
 <p align="center">
-<a href="https://linkedin.com/in/misbah-khan-774a25211" style="text-decoration: none;" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="misbah-khan-774a25211" height="40" width="40" /></a>
-<a href="https://fb.com//khan.misbah.007" style="text-decoration: none;" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="/khan.misbah.007" height="40" width="40" /></a>
-<a href="https://www.codechef.com/users/misbah009" style="text-decoration: none;" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="misbah009" height="40" width="40" /></a>
-<a href="https://www.hackerrank.com/misbah_khan" style="text-decoration: none;" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="misbah_khan" height="40" width="40" /></a>
-<a href="https://codeforces.com/profile/histranquility" style="text-decoration: none;" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="histranquility" height="40" width="40" /></a>
-<a href="https://www.leetcode.com/misbahkhan0009" style="text-decoration: none;" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="misbahkhan0009" height="40" width="40" /></a>
-</p>
-<br />
-<h2 align="center">Languages and Tools 🧰</h2>
-<p align="center" style="padding:20px"> 
-  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" alt="supabase" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="java" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40"/> 
+<img src="https://img.shields.io/badge/Focus-AI%20%2F%20Web%20Engineering-0D1117?style=for-the-badge&labelColor=111827&color=3ECF8E" />
+<img src="https://img.shields.io/badge/Currently-Natural%20Language%20Processing-0D1117?style=for-the-badge&labelColor=111827&color=3ECF8E" />
+<img src="https://img.shields.io/badge/Role-Research%20Assistant-0D1117?style=for-the-badge&labelColor=111827&color=3ECF8E" />
 </p>
 
-<br />
-<p align="center" >
-    <img src="https://github.com/MisbahKhan0009/MisbahKhan0009/blob/main/profile-3d-contrib/profile-night-view.svg"  />
-</p>
-<br/>
-<p align="center">
-    <img src="https://streak-stats.demolab.com/?user=MisbahKhan0009&theme=prussian" alt="GitHub Streak" />
-</p>
+</div>
+
+---
+
+# <img src="https://cdn.simpleicons.org/lucide/3ECF8E" width="22" /> About Me
+
+```ts
+const misbah = {
+  role: "Research Assistant & Full Stack Developer",
+
+  currentWork: {
+    organization: "Big-Matrix Lab",
+    university: "North South University",
+    role: "Research Assistant",
+    website: "https://lab.big-matrix.com/"
+  },
+
+  interests: [
+    "Artificial Intelligence",
+    "Natural Language Processing",
+    "Modern Web Engineering",
+    "Distributed Systems",
+    "Open Source"
+  ],
+
+  stack: [
+    "React",
+    "Next.js",
+    "TypeScript",
+    "Node.js",
+    "PostgreSQL",
+    "Supabase"
+  ],
+
+  mindset: "Minimal • Scalable • Performance-first"
+};
+```
+
+---
+
+# <img src="https://cdn.simpleicons.org/lucide/3ECF8E" width="22" /> Connect
+
+<div align="center">
+
+<a href="mailto:mkhanmisbah007@gmail.com">
+  <img src="https://img.shields.io/badge/Mail-0B0F19?style=for-the-badge&logo=gmail&logoColor=3ECF8E" />
+</a>
+
+<a href="https://linkedin.com/in/misbah-khan-774a25211" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0B0F19?style=for-the-badge&logo=linkedin&logoColor=3ECF8E" />
+</a>
+
+<a href="https://fb.com/khan.misbah.007" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-0B0F19?style=for-the-badge&logo=facebook&logoColor=3ECF8E" />
+</a>
+
+<a href="https://codeforces.com/profile/histranquility" target="_blank">
+  <img src="https://img.shields.io/badge/Codeforces-0B0F19?style=for-the-badge&logo=codeforces&logoColor=3ECF8E" />
+</a>
+
+<a href="https://leetcode.com/misbahkhan0009" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-0B0F19?style=for-the-badge&logo=leetcode&logoColor=3ECF8E" />
+</a>
+
+<a href="https://www.hackerrank.com/misbah_khan" target="_blank">
+  <img src="https://img.shields.io/badge/HackerRank-0B0F19?style=for-the-badge&logo=hackerrank&logoColor=3ECF8E" />
+</a>
+
+</div>
+
+---
+
+# <img src="https://cdn.simpleicons.org/lucide/3ECF8E" width="22" /> Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,express,python,java,c,cpp,postgres,mongodb,mysql,supabase,firebase,docker,linux,git,tailwind,sass,bootstrap,figma,bash&theme=dark" />
+
+</div>
+
+---
+
+# <img src="https://cdn.simpleicons.org/lucide/3ECF8E" width="22" /> Activity
+
+<div align="center">
+
+<img width="100%" src="https://github.com/MisbahKhan0009/MisbahKhan0009/blob/main/profile-3d-contrib/profile-night-view.svg" />
 
 <br />
+<br />
+
+<!-- <img width="49%" src="https://github-readme-stats.vercel.app/api?username=MisbahKhan0009&show_icons=true&bg_color=00000000&title_color=3ECF8E&text_color=E5E7EB&icon_color=3ECF8E&hide_border=true" /> -->
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=MisbahKhan0009&theme=transparent&hide_border=true&ring=3ECF8E&fire=3ECF8E&currStreakLabel=3ECF8E" /> 
+
+</div>
+
+---
+
+# <img src="https://cdn.simpleicons.org/lucide/3ECF8E" width="22" /> Current Focus
+
+<div align="center">
+
+```diff
++ Artificial Intelligence
++ Natural Language Processing
++ Distributed Systems
++ Full Stack Architecture
++ Open Source Collaboration
+```
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0F19,100:0F172A&height=2&section=footer" />
+
+</div>
